@@ -1,0 +1,5 @@
+train: C:\Users\Huawei\Desktop\platano\Data\train/
+val: C:\Users\Huawei\Desktop\platano\Data\val
+test:
+nc: 1
+names: ["Platano"]
